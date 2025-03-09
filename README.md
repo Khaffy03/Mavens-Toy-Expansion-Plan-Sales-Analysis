@@ -59,15 +59,6 @@ The analysis results are summarized as follows:
 4. Airport generate the highest average revenue per store outlet.
 5. Downtown generate the second largest average revenue per store.
 
-### Recommendations
-
-- Based on the Analysis, we recommend the following actions:
-- Investigate reasons for dips in February and March, replicate strategies that drove growth in April and May, and implement targets campaigns to sustain moments in the coming months
-- Focus on strengthening sales for high-performing products (Clocks and Vases), improve strategies for low performers (Rugs and Wall Frames), and maintain consistency for mid-tier - products (Cookware, Ornaments, Phones).
-- Enhance e-commerce platforms and digital marketing to further boost online sales.
-- Develop tailored strategies to boost sales in Township and CDP.
-- Target North Carolina with localized strategies to boost sales.
-- Recognize top performers like Nicholas Cunningham, Donald Reynolds, and Joe Price. Support lower-performing teams (e.g., Patrick Graham) with additional resources, training, or motivation to help improve sales.
 
 ### Limitations
 
